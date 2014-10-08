@@ -1,0 +1,1 @@
+con el intérprete de ruby se ejecuta todo directamente mientras que con el interactivo tomas parte en la ejecución
