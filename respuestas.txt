@@ -1,1 +1,3 @@
-con el intérprete de ruby se ejecuta todo directamente mientras que con el interactivo tomas parte en la ejecución
+--con el intérprete de ruby se ejecuta todo directamente mientras que con el interactivo permite ver el valor de las variables y la salida del programa
+
+--pry te permite interactuar en tiempo de ejecución
